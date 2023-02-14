@@ -1,4 +1,4 @@
-# ML-Project----Predicting-used-car-Price-in-Singapore
+# ML-Project 1----Predicting-used-car-Price-in-Singapore
 A NTU mini project on using sklearn library to build a linear regression models to predict the price of used cars in singapore
 This is a graded assignment for NTU CBC course CM4044. 
 
